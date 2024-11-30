@@ -18,11 +18,6 @@ For the login processes, I integrated the JWT (JSON Web Token) strategy for secu
 
 Therefore, this multi-user authentication system ensures that each user can securely access and manage their personal workout information.
 
-The application has several pages that allow users to:
-- Login or Register a new account
-- Add new workouts and exercises
-- View and update all of their workout history (including all the data from their workouts and exercises)
-
 ### Why did I choose this specific project?
 
 I chose this project because I have a passion for fitness and wanted to build something useful that aligns with my interests. When thinking about what exactly to create, I thought that a fitness tracker would be a valuable tool for anyone looking to monitor and improve their workout routine. Thus, this project provided a good opportunity for me to create this valuable and practical application. 
