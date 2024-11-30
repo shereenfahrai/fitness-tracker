@@ -1,9 +1,6 @@
-## LIVE URL LINK
-https://20241118t182139-dot-fitnesstrackerwebapp.uc.r.appspot.com/login
-
 ## Documentation
 
-i. Describe each of the requirements and how your project meets them
+### Description of Project 
 
 For my project, I have implemented the frontend using React-Bootstrap. This React app is structured with multiple components to handle user registration, login, displaying and editing the user's history of workout and exercise data, and adding workouts and exercises.
 
@@ -26,14 +23,13 @@ The application has several pages that allow users to:
 - Add new workouts and exercises
 - View and update all of their workout history (including all the data from their workouts and exercises)
 
-
-ii. Why did you choose this specific project?
+### Why did I choose this specific project?
 
 I chose this project because I have a passion for fitness and wanted to build something useful that aligns with my interests. When thinking about what exactly to create, I thought that a fitness tracker would be a valuable tool for anyone looking to monitor and improve their workout routine. Thus, this project provided a good opportunity for me to create this valuable and practical application. 
 
-iii. If you had more time, what would you do differently?
+### If I had more time, what would I do differently?
 
-If I had more time, there are a few improvements I would make to enhance my app's functionality and user experience:
+There are a few improvements I would make to enhance my app's functionality and user experience:
 
 - Styling Improvements: I would focus on the CSS styling to make the app look more sleek and modern. 
 
@@ -42,4 +38,3 @@ If I had more time, there are a few improvements I would make to enhance my app'
 - Dashboard and Data Visualizations: I would create a robust dashboard that provides a graphical representation of the user's workout data. Users would be able to see progress over time, track consistency, and visualize their workouts in order to analyze trends in their fitness routines.
 
 - Advanced User Analytics: The app could include more advanced features such as tracking workout goals, suggesting improvements, and even providing feedback on the user's workout patterns based on the data that they have logged.
-
